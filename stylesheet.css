@@ -1,0 +1,205 @@
+body{
+    font-size:13.5px;
+    color:rgb(139, 141, 141);
+    width:100%;
+}
+
+.header{
+    font-family: urw-form,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    position: fixed;
+    top:0;
+    left:0;
+    height:60px;
+    width:100%;
+    background:white;
+}
+
+@media (max-width:722px) {
+    .header{
+        height:120px;
+    }
+}
+
+.header h3{
+    font-size: 25px;
+    float:left;
+    transform: rotate(90deg);
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.header-list{
+    float:right;
+    padding-right: 145px;
+}
+
+.header-list li{
+    list-style: none;
+    float: left;
+    padding-top:   13px;
+    padding-bottom:15px;
+    padding-left:  20px;
+    padding-right: 20px;
+}
+
+.main{
+    height: 3300px;
+}
+.A-main{
+    height:4000px;
+}
+.E1-main{
+    height:4000px;
+}
+.E2-main{
+    height:3600px;
+}
+.E3-main{
+    height:4300px;
+}
+
+.Image{
+    height:950px;
+}
+
+.Image img{
+    padding-top: 0px;
+    width:750px;
+    height:750px;
+    border-radius: 50%;
+}
+
+.What{
+    height:550px;
+}
+.What_sentence{
+    width:600px;
+    text-align:left;
+    display:inline-block;
+}
+
+.Products{
+    height:650px;
+}
+.contents-item{
+    width:250px;
+    font-size:10px;
+    float :left;
+    padding :50px 20px 20px 20px;
+}
+.contents-item h3{
+    font-size: 15px;;
+}
+.contents-item img{
+    width:150px;
+    height:150px;
+    border: 1px solid rgb(139, 141, 141); /* 枠線を付加 */
+    border-radius: 50%;
+}
+
+.contents-items{
+    width:870px;
+    margin: 0 auto;
+    padding-top: 0px;
+}
+
+.Activities{
+    height:600px;
+}
+.box{
+    width: 600px;height:200px; border: solid 1px rgb(48, 51, 51);
+    border-radius: 10px;
+    margin-top:50px;
+}
+.box p{
+    text-align:left;
+    display:inline-block;
+}
+
+
+.Member{
+    height:200px;
+
+}
+
+.member-item{
+    float: left;
+    width:70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;;
+}
+
+.member-items{
+    padding-top:50px;
+    width: 550px;
+    margin: 0 auto;
+}
+
+.footer{
+    height: 200px;
+}
+.footer-logo{
+    font-size: 15px;
+    
+}
+
+.footer img{
+    width:40px;
+    height:40px;
+    padding:20px 30px;
+    float:left;
+}
+.footer-logos{
+    width:200px;
+    height:100px;
+}
+a {
+    color:rgb(139, 141, 141);
+    text-decoration: none
+}
+
+.pagetop img{
+    width:40px;
+    height:40px;
+    position:fixed;
+    bottom:15px;
+    right:15px;
+}
+
+.Daimei{
+    width:600px;
+    height:580px;
+    padding-bottom:160px;
+}
+
+.Daimei-daimei{
+    width:420px;
+    margin-left:-180px;
+    margin-bottom:50px;
+    text-align:left;
+    display:inline-block;
+}
+.Daimei img{
+    width:600px;
+    height:300px;
+    border: solid 1px rgb(139, 141, 141);
+}
+.Daimei p{
+    font-size:10px;
+    margin-top:50px;
+    text-align:left;
+    display:inline-block;
+}
+
+.Pro{
+    height:50px;
+    padding-bottom: 50px;
+}
+
+.Setumei img{
+    width:600px;
+    height:300px;
+}
