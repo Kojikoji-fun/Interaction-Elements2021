@@ -104,14 +104,9 @@ body{
 .Activities{
     height:600px;
 }
-.box{
-    width: 600px;height:200px; border: solid 1px rgb(48, 51, 51);
-    border-radius: 10px;
+.box img{
+    width: 600px;height:200px;
     margin-top:50px;
-}
-.box p{
-    text-align:left;
-    display:inline-block;
 }
 
 
