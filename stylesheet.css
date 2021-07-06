@@ -24,9 +24,10 @@ body{
 
 .header img{
     height:80px;
-    width:100px;
+    width:80px;
     float:left;
     transform: rotate(90deg);
+    padding-bottom:50px;
 }
 
 .header-list{
