@@ -22,8 +22,8 @@ body{
     }
 }
 
-.header h3{
-    font-size: 25px;
+.header img{
+    height:80px;
     float:left;
     transform: rotate(90deg);
     padding-top: 150px;
