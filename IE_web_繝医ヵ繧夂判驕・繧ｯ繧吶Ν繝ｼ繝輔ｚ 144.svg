@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="986" height="1075" viewBox="0 0 986 1075">
+  <g id="グループ_144" data-name="グループ 144" transform="translate(-467)">
+    <rect id="長方形_113" data-name="長方形 113" width="986" height="1075" transform="translate(467)" fill="#fff"/>
+    <g id="グループ_24" data-name="グループ 24">
+      <g id="グループ_8" data-name="グループ 8" transform="translate(688.535 287.231)">
+        <g id="グループ_15" data-name="グループ 15" transform="translate(279.837 -3) rotate(45)">
+          <g id="グループ_14" data-name="グループ 14" transform="translate(0 0)">
+            <g id="グループ_13" data-name="グループ 13" transform="translate(0 0)">
+              <g id="グループ_9" data-name="グループ 9" transform="translate(0 335.196)">
+                <rect id="長方形_6" data-name="長方形 6" width="24.022" height="77.613" rx="6" transform="translate(0 16.986) rotate(-45)" fill="#fff" stroke="#707070" stroke-width="1"/>
+              </g>
+              <g id="グループ_23" data-name="グループ 23" transform="translate(311.209 12.021)">
+                <g id="グループ_10" data-name="グループ 10" transform="translate(0 0)">
+                  <path id="パス_1" data-name="パス 1" d="M43.261,17.879l-28.6,28.6a1.518,1.518,0,0,1-2.148,0L1.772,35.744a6.092,6.092,0,0,1,0-8.59L27.154,1.772a6.092,6.092,0,0,1,8.59,0l7.517,7.517A6.092,6.092,0,0,1,43.261,17.879Z" fill="#fff" stroke="#707070" stroke-width="1"/>
+                </g>
+                <g id="グループ_12" data-name="グループ 12" transform="translate(36.902 38.796)">
+                  <path id="パス_3" data-name="パス 3" d="M45.155,17.879,19.773,43.261a6.075,6.075,0,0,1-8.591,0L.445,32.522a1.519,1.519,0,0,1,0-2.147l28.6-28.6a6.092,6.092,0,0,1,8.59,0l7.517,7.517A6.093,6.093,0,0,1,45.155,17.879Z" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+                </g>
+                <g id="グループ_16" data-name="グループ 16" transform="translate(17.492 19.387)">
+                  <path id="パス_2" data-name="パス 2" d="M45.155,17.879l-28.6,28.6a1.519,1.519,0,0,1-2.148,0L.445,32.523a1.519,1.519,0,0,1,0-2.148l28.6-28.6a6.093,6.093,0,0,1,8.591,0l7.517,7.517A6.093,6.093,0,0,1,45.155,17.879Z" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="線_1" data-name="線 1" x1="364" transform="translate(768.5 534.895)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="線_2" data-name="線 2" x1="364" transform="translate(768.5 609.018)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="グループ_25" data-name="グループ 25" transform="translate(-6 3.39)">
+        <text id="Process_" data-name="Process
+" transform="translate(756.159 546.505)" fill="#fff" stroke="#7b7b7b" stroke-width="2" font-size="50" font-family="URWForm-Medium, URW Form" font-weight="500" letter-spacing="0.2em"><tspan x="88.466" y="38">Process</tspan></text>
+        <text id="Process_2" data-name="Process
+" transform="translate(756.159 546.505)" fill="#fff" font-size="50" font-family="URWForm-Medium, URW Form" font-weight="500" letter-spacing="0.2em"><tspan x="88.466" y="38">Process</tspan></text>
+      </g>
+    </g>
+    <g id="グループ_129" data-name="グループ 129" transform="translate(-17.84 20)">
+      <line id="線_10" data-name="線 10" x1="34.918" y2="18.796" transform="translate(977.84 964.704)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="線_11" data-name="線 11" x2="34.918" y2="18.796" transform="translate(942.922 964.704)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
