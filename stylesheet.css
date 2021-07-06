@@ -23,10 +23,9 @@ body{
 }
 
 .header img{
-    height:80px;
-    width:80px;
+    height:150px;
+    width:300px;
     float:left;
-    transform: rotate(90deg);
     padding-bottom:50px;
     padding-left:50px;
 }
