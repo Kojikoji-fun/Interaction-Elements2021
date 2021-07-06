@@ -93,7 +93,6 @@ body{
 .contents-item img{
     width:150px;
     height:150px;
-    border: 1px solid rgb(139, 141, 141); /* 枠線を付加 */
     border-radius: 50%;
 }
 
