@@ -1,6 +1,6 @@
 body{
     font-size:13.5px;
-    color:rgb(139, 141, 141);
+    color:#7b7b7b;
     width:100%;
     line-height: 180%
 }
@@ -149,7 +149,7 @@ body{
     height:100px;
 }
 a {
-    color:rgb(139, 141, 141);
+    color:#7b7b7b;
     text-decoration: none
 }
 
