@@ -189,11 +189,26 @@ a {
     text-align:left;
     display:inline-block;
 }
+
 .Daimei img{
     width:600px;
     height:300px;
 }
+.Daimei3-A img{
+    width:600px;
+    height:300px;
+}
 .Daimei p{
+    margin-top:50px;
+    text-align:left;
+    display:inline-block;
+}
+.Daimei3-A p{
+    margin-top:50px;
+    text-align:left;
+    display:inline-block;
+}
+.Daimei3-P p{
     margin-top:50px;
     text-align:left;
     display:inline-block;
@@ -209,8 +224,3 @@ a {
     height:300px;
 }
 
-Setumei img3{
-    width:600px;
-    height:300px;
-    padding-bottom:100px;
-}
