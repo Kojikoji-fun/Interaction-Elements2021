@@ -52,18 +52,23 @@ body{
 
 .main{
     height: 3300px;
+    width:100%;
 }
 .A-main{
     height:4800px;
+    width:100%;
 }
 .E1-main{
     height:4200px;
+    width:100%;
 }
 .E2-main{
     height:4800px;
+    width:100%;
 }
 .E3-main{
     height:4800px;
+    width:100%;
 }
 
 .Image{
