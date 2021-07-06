@@ -84,7 +84,7 @@ body{
 .contents-item{
     width:250px;
     float :left;
-    padding :50px 20px 20px 20px;
+    padding :50px 10px 10px 20px;
 }
 .contents-item h3{
     font-size: 15px;;
