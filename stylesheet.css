@@ -28,6 +28,7 @@ body{
     float:left;
     transform: rotate(90deg);
     padding-bottom:50px;
+    padding-left:50px;
 }
 
 .header-list{
