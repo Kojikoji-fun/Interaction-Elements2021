@@ -21,20 +21,6 @@ body{
     background:white;
 }
 
-@media (max-width:722px) {
-    .header{
-        height:120px;
-    }
-    .header img{
-        width:0px;
-        height:0px;
-        float:left;
-        padding-top: 0px;
-        padding-left:0px;
-        padding-bottom: 0px;
-    }
-}
-
 .header img{
     width:30px;
     height:300px;
@@ -42,6 +28,20 @@ body{
     padding-top: 40px;
     padding-left:40px;
     padding-bottom:150px;
+}
+
+@media (max-width:722px) {
+    .header{
+        height:120px;
+    }
+    .header img{
+        width:1px;
+        height:1px;
+        float:left;
+        padding-top: 0px;
+        padding-left:0px;
+        padding-bottom: 0px;
+    }
 }
 
 .header-list{
